@@ -1,0 +1,9 @@
+Create a character for Dungeon's and Dragon's. You will provide the following information:
+- The gender of the character
+- The name of the character
+- His race
+- His class
+- It's basic equipment
+- A little background
+
+Don't ask the user any question. Make assumption and be creative

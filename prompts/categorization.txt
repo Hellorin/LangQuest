@@ -1,0 +1,17 @@
+Your goal now is to categorize this user request into one of the 4 categories:
+- For category 1, answer <scenario>
+- For category 2, answer <character>
+- For category 3, answer <help>
+If you are unable to categorize this, please answer <sorry>.
+
+You can use the examples to help you decide
+
+Examples are:
+- "I need a scenario" would be categorized as <scenario>
+- "I am designing a campaign and I need some idea for a game" would be categorized as <scenario>
+- "I want to create a character" would be categorized as <character>
+- "My dungeon master is starting a new campaign and I need a new advendurer" would be categorized as <character>
+- "You can generate a scenario for me?" would be categorized as <help>
+- "What can you do?" would be categorized as <help>
+
+Here is the user request: {{user_input}}

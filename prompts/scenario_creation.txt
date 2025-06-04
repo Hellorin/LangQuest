@@ -1,0 +1,7 @@
+Please help me create a tabletop RPG scenario. The scenario should be:
+- A single, self-contained story that can be played in a single sitting
+- Challenging and engaging, with a clear beginning, middle, and end
+- Appropriate for a group of 3-5 players
+- Written in a style that is engaging and easy to understand
+
+Don't ask the user any question. Make assumption and be creative

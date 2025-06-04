@@ -1,0 +1,1 @@
+The user has selected the task to create a scenario. Focus only on that now! Don't answer anything else than scenario creation. 
